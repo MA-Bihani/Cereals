@@ -1,2 +1,2 @@
 # Cereals
-Work on studying different cereal components and building a simple recommendation system on them.
+This is a study on different cereal components and creation of a simple recommendation system on them.
